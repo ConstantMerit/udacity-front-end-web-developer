@@ -11,6 +11,10 @@
 }
 
 .app {
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: -webkit-flex;
   display: flex;
 }
 
