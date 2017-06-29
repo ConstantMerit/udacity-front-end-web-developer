@@ -13,3 +13,7 @@
 .screenshot {
   max-width: 460px;
 }
+
+.description {
+  max-width: 705px;
+}
